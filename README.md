@@ -1,14 +1,14 @@
-<h1 align="center">
+<div align="center" id="badges">
+  <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h3 align="center">
+<h3>
   Welcome to my page!
 </h3>
-<h3 align="center">
+<p>
   I'm Daniel, frontend developer
 </h3>
-<div align="center" id="badges">
   <a href="https://twitter.com/CvBcjTQpbptani1">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
