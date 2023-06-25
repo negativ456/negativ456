@@ -8,7 +8,7 @@
 </h3>
 <p>
   I'm Daniel, frontend developer
-</h3>
+</p>
   <a href="https://twitter.com/CvBcjTQpbptani1">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
