@@ -1,5 +1,4 @@
 ### Hi there 👋
-<div style="display: flex">
   <div id="badges">
     <a href="https://twitter.com/CvBcjTQpbptani1">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -7,10 +6,9 @@
     <a href="https://t.me/NegativWest">
       <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-</div>
-  <div>
-    ### :hammer_and_wrench: Languages and Tools :
-    <div>
+  </div>
+### :hammer_and_wrench: Languages and Tools :
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -22,11 +20,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    </div>
-  </div>
-  ### :fire: My Stats :
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=negativ456" alt="stats"/>
 </div>
+### :fire: My Stats :
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=negativ456" alt="stats"/>
 
 <!--
 **negativ456/negativ456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
