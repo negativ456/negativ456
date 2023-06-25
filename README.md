@@ -24,10 +24,10 @@
 </div>
 
 ### :fire: My Stats :
-<div>
-  <img align="left" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=negativ456&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)" alt="stats"/>
-  <img align="right" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=negativ456&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)"/>
-</div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=negativ456&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats
   
 
 <!--
