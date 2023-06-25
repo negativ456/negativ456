@@ -4,7 +4,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="https://t.me/NegativWest">
-      <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
   
@@ -27,7 +27,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=negativ456&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=negativ456)](https://github.com/anuraghazra/github-readme-stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=negativ456)](https://github.com/anuraghazra/github-readme-stats)
   
 
 <!--
