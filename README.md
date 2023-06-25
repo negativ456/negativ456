@@ -1,14 +1,14 @@
 ### Hi there 👋
 <div style="display: flex">
   <div id="badges">
-  <a href="https://twitter.com/CvBcjTQpbptani1">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://t.me/NegativWest">
-    <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
+    <a href="https://twitter.com/CvBcjTQpbptani1">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://t.me/NegativWest">
+      <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
 </div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=negativ456" alt="stats"/>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=negativ456" alt="stats"/>
 </div>
 
 <!--
