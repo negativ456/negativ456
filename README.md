@@ -13,7 +13,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="sass" alt="sass" width="40" height="40"/>&nbsp;
@@ -24,7 +24,11 @@
 </div>
 
 ### :fire: My Stats :
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=negativ456" alt="stats"/>
+<div>
+  <img align="left" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=negativ456&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)" alt="stats"/>
+  <img align="right" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=negativ456&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)"/>
+</div>
+  
 
 <!--
 **negativ456/negativ456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
